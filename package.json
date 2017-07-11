@@ -1,0 +1,16 @@
+{
+  "name": "fuse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "talita-fuse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "talita",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "fuse-bindings": "^2.11.1",
+    "musicmetadata": "^2.0.5"
+  }
+}
